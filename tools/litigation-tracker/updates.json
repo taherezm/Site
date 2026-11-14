@@ -1,5 +1,68 @@
 [
   {
+    "case_id": "umg-recordings-inc-v-suno-inc",
+    "case_name": "UMG Recordings, Inc. v. Suno, Inc.",
+    "entry_date": "2026-11-13",
+    "summary": "The plaintiffs — a group of major record labels including UMG Recordings, Sony Music Entertainment, and Capitol Records, among others — filed an opposition to Suno's motion to stay the case, supported by an affidavit and three exhibits consisting of emails dated February, July, and October 2026.",
+    "significance": "minor_update",
+    "entry_number": "37",
+    "logged_at": "2026-11-14T18:45:35Z"
+  },
+  {
+    "case_id": "berliner-v-huang",
+    "case_name": "Berliner v. Huang",
+    "entry_date": "2026-11-13",
+    "summary": "Kamille Rodney and the Treppel Family Trust move to intervene in the case and to stay the proceedings, with plaintiffs and defendants ordered to respond by December 2, 2026, and Rodney and the Trust scheduled to reply by December 11, 2026. The court also struck the previously scheduled presentment date of November 17, 2026.",
+    "significance": "minor_update",
+    "entry_number": "51",
+    "logged_at": "2026-11-14T18:45:35Z"
+  },
+  {
+    "case_id": "berliner-v-huang",
+    "case_name": "Berliner v. Huang",
+    "entry_date": "2026-11-11",
+    "summary": "Attorney Lori Ann Fanning filed a notice scheduling a hearing on a pending motion to intervene (Docket Entry 47) before Judge Jorge L. Alonso on November 17, 2026, at 9:30 AM. The motion itself has not yet been ruled on.",
+    "significance": "minor_update",
+    "entry_number": "50",
+    "logged_at": "2026-11-14T18:45:35Z"
+  },
+  {
+    "case_id": "berliner-v-huang",
+    "case_name": "Berliner v. Huang",
+    "entry_date": "2026-11-11",
+    "summary": "Attorney Gregory E. Del Gaizo filed a declaration, along with eleven exhibits, in support of proposed intervenors' motion seeking permissive intervention and a stay in this case.",
+    "significance": "minor_update",
+    "entry_number": "49",
+    "logged_at": "2026-11-14T18:45:35Z"
+  },
+  {
+    "case_id": "berliner-v-huang",
+    "case_name": "Berliner v. Huang",
+    "entry_date": "2026-11-11",
+    "summary": "Proposed intervenors Kamille Rodney and Treppel Family Trust filed a memorandum of law supporting their motion to permissively intervene in the case and to stay the proceedings.",
+    "significance": "minor_update",
+    "entry_number": "48",
+    "logged_at": "2026-11-14T18:45:35Z"
+  },
+  {
+    "case_id": "berliner-v-huang",
+    "case_name": "Berliner v. Huang",
+    "entry_date": "2026-11-11",
+    "summary": "Intervenor Kamille Rodney and the Treppel Family Trust filed a motion seeking permissive intervention in the case and a stay of proceedings.",
+    "significance": "minor_update",
+    "entry_number": "47",
+    "logged_at": "2026-11-14T18:45:35Z"
+  },
+  {
+    "case_id": "berliner-v-huang",
+    "case_name": "Berliner v. Huang",
+    "entry_date": "2026-11-11",
+    "summary": "Attorney Lori Ann Fanning filed an appearance in the case representing intervenors Kamille Rodney and the Treppel Family Trust, signaling that these parties have joined the litigation.",
+    "significance": "minor_update",
+    "entry_number": "46",
+    "logged_at": "2026-11-14T18:45:35Z"
+  },
+  {
     "case_id": "rosen-v-pichai-2",
     "case_name": "Rosen v. Pichai",
     "entry_date": "2026-11-11",
